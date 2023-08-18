@@ -27,8 +27,6 @@ Each microservice is responsible for a specific function or feature of the appli
 
 <img src="https://content.altexsoft.com/media/2016/11/the-difference-between-the-monolithic-and-microser.png"/>
 
-
-
 <ul>
   <li>
     <p>
@@ -41,3 +39,5 @@ Each microservice is responsible for a specific function or feature of the appli
     </p>
   </li>
 </ul>
+
+# Using TCP 
