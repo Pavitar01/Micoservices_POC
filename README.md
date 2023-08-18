@@ -41,3 +41,10 @@ Each microservice is responsible for a specific function or feature of the appli
 </ul>
 
 # Using TCP 
+<img src="https://miro.medium.com/max/4508/1*VhwC_8dSe3m0T06hh2yT8g.jpeg"/>
+
+# Client Nest Project
+<p>This is the front-end or user interface of your application. It's what users interact with directly. It could be a web application, a mobile app, or any other user-facing interface.</p>
+
+#  Microservices Nest Project
+<p>This is the backend of your application, built using the microservices architecture with the Nest.js framework. In this architecture, different microservices handle specific functionalities, such as user authentication, data processing, and more.</p>
